@@ -1,9 +1,8 @@
 <template>
-    <div class="container">
-        <div class="row">
-            <p class="lead">
-                Taryn-lee's Portfolio</p>
-            <span>{{ currYear }}</span>
+    <div class="container-fluid">
+        <div class="row bg-body-secondary">
+            <p class="lead fixed-bottom bg-secondary">
+                Taryn-lee's Portfolio &copy;<span>{{ currYear }}</span><i class="bi bi-linkedin"></i><i class="bi bi-facebook"></i></p>
         </div>
     </div>
 </template>
