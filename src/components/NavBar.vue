@@ -1,9 +1,9 @@
 ;;<template>
    <nav class="navbar navbar-expand-lg bg-secondary sticky-top">
   <div class="container-fluid">
-   <RouterLink to="/">
-        <img class="img-fluid" src="https://drive.google.com/uc?id=1AUnaRlzA0LFOHdaMqJQ1hAIlUX13ccyu" alt="logo" loading="lazy">
-   </RouterLink>
+
+
+    
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

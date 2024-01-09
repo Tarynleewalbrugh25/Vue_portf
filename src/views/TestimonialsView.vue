@@ -3,15 +3,13 @@
         <div class="row">
             <h2 class="display-2">Testimonials</h2>
         </div>
-
-    </div>
+   </div>
 </template>
 
 <script>
 
 
-    export default {
-    }
+export default {}
 
 </script>
 
